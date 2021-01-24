@@ -1,0 +1,18 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/style.sass",
+        "../sass/_settings.sass",
+        "../sass/_var.sass",
+        "../sass/_header.sass",
+        "../sass/_footer.sass",
+        "../sass/pages/index/_main.sass",
+        "../sass/pages/index/_forms.sass",
+        "../sass/pages/index/_projects.sass",
+        "../sass/pages/index/_signup.sass",
+        "../sass/_media.sass"
+    ],
+    "names": [],
+    "file": "style.css"
+}
